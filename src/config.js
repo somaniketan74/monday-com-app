@@ -1,0 +1,1 @@
+export const BASE_URL = "https://t2y60qgkt6.execute-api.ap-south-1.amazonaws.com/dev/v1";
